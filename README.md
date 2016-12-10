@@ -4,8 +4,8 @@
 
 By: [https://JavaScript30.com](https://JavaScript30.com)
 
-## List of content
-- 01 - JavaScript Drum Kit
+## [List of content](https://bcarvalho89.github.io/javascript30/)
+- 01 - [JavaScript Drum Kit](https://bcarvalho89.github.io/javascript30/day1/)
 - 02 - JS + CSS Clock
 - 03 - CSS Variables
 - 04 - Array Cardio Day 1
