@@ -7,7 +7,7 @@ By: [https://JavaScript30.com](https://JavaScript30.com)
 ## [List of content](https://bcarvalho89.github.io/javascript30/)
 - 01 - [JavaScript Drum Kit](https://bcarvalho89.github.io/javascript30/day1/)
 - 02 - [JS + CSS Clock](https://bcarvalho89.github.io/javascript30/day2/)
-- 03 - CSS Variables
+- 03 - [CSS Variables](https://bcarvalho89.github.io/javascript30/day3/)
 - 04 - Array Cardio Day 1
 - 05 - Flex Panel Gallery
 - 06 - Type Ahead
