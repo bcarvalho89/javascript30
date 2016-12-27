@@ -10,7 +10,7 @@ By: [https://JavaScript30.com](https://JavaScript30.com)
 - 03 - [CSS Variables](https://bcarvalho89.github.io/javascript30/day3/)
 - 04 - [Array Cardio Day 1](https://bcarvalho89.github.io/javascript30/day4/)
 - 05 - [Flex Panel Gallery](https://bcarvalho89.github.io/javascript30/day5/)
-- 06 - Type Ahead
+- 06 - [Type Ahead](https://bcarvalho89.github.io/javascript30/day6/)
 - 07 - Array Cardio Day 2
 - 08 - Fun with HTML5 Canvas
 - 09 - Dev Tools Domination
