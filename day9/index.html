@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('Hello JS - Regular');
+
+    // Interpolated
+    const variable = 'JS';
+    console.log(`Hello ${variable} - Interpolated 1`);
+    console.log('Hello %s - Interpolated 2', variable);
+
+    // Styled
+    console.log('%c Hello my beautifull', 'font-size: 25px');
+
+    // warning!
+    console.warn('Ohh nooo!');
+
+    // Error :|
+    console.error('Ohh shit');
+
+    // Info
+    console.info('Nothing to see here');
+
+    // Testing
+    const p = document.querySelector('p');
+    console.assert(p.classList.contains('ouch'), 'That is wrong!');
+
+    // clearing
+    console.clear();
+
+    // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);
+
+    // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    });
+
+    // counting
+    console.count('Bruno');
+    console.count('Bruno');
+    console.count('Carvalho');
+    console.count('Carvalho');
+    console.count('Bruno');
+    console.count('Bruno');
+    console.count('Bruno');
+    console.count('Carvalho');
+    console.count('Bruno');
+    console.count('Carvalho');
+
+    // timing
+    console.time('fetch data');
+    fetch('https://api.github.com/users/bcarvalho89')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetch data');
+        console.log(data);
+      });
+
+    console.table(dogs);
+  </script>
+</body>
+</html>
