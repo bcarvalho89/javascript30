@@ -11,15 +11,15 @@ By: [https://JavaScript30.com](https://JavaScript30.com)
 - 04 - [Array Cardio Day 1](https://bcarvalho89.github.io/javascript30/day4/)
 - 05 - [Flex Panel Gallery](https://bcarvalho89.github.io/javascript30/day5/)
 - 06 - [Type Ahead](https://bcarvalho89.github.io/javascript30/day6/)
-- 07 - Array Cardio Day 2
-- 08 - Fun with HTML5 Canvas
-- 09 - Dev Tools Domination
-- 10 - Hold Shift and Check Checkboxes
-- 11 - Custom Video Player
-- 12 - Key Sequence Detection
-- 13 - Slide in on Scroll
-- 14 - JavaScript References VS Copying
-- 15 - LocalStorage
+- 07 - [Array Cardio Day 2](https://bcarvalho89.github.io/javascript30/day7/)
+- 08 - [Fun with HTML5 Canvas](https://bcarvalho89.github.io/javascript30/day8/)
+- 09 - [Dev Tools Domination](https://bcarvalho89.github.io/javascript30/day9/)
+- 10 - [Hold Shift and Check Checkboxes](https://bcarvalho89.github.io/javascript30/day10/)
+- 11 - [Custom Video Player](https://bcarvalho89.github.io/javascript30/day11/)
+- 12 - [Key Sequence Detection](https://bcarvalho89.github.io/javascript30/day12/)
+- 13 - [Slide in on Scroll](https://bcarvalho89.github.io/javascript30/day13/)
+- 14 - [JavaScript References VS Copying](https://bcarvalho89.github.io/javascript30/day14/)
+- 15 - [LocalStorage](https://bcarvalho89.github.io/javascript30/day15/)
 - 16 - Mouse Move Shadow
 - 17 - Sort Without Articles
 - 18 - Adding Up Times with Reduce
